@@ -10,4 +10,5 @@ WindowsFormsApp1.zip-archive, inside files and solution using in Visual Studios(
 ```
 
 program demonstration:
-![it's floppa, russian cat](https://imgur.com/a/UNBzKmP)
+![it's floppa, russian cat]
+(https://imgur.com/a/UNBzKmP)
